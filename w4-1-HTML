@@ -11,10 +11,9 @@
     <title>Week 4 Assignment</title>
     <meta charset = "utf-8" />
 
-    <link href="./SalowA4_3-2_style.css" type = "text/css" rel = "stylesheet" />
+    <link href="./W4-1-CSS.css" type = "text/css" rel = "stylesheet" />
 
     <body>
-        <form method = "GET" action = "http://acsg540.com/~ubuntu/acsg-540-2021f-examples/week4/"></form>
         <table>
             <caption><h3>Big 10 Week 3 Conference Scores</h3></caption>
 
